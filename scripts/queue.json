@@ -35,7 +35,7 @@
       "look": 22,
       "type": "queued",
       "image_path": "output/image/chanel/metiers-art-2026/look-022/original.jpg",
-      "status": "queued",
+      "status": "partial",
       "published_at": null,
       "generations": [
         {
@@ -43,8 +43,9 @@
           "version": "v001",
           "output_path": "output/image/chanel/metiers-art-2026/look-022/linearts/gpt-image-2.5-sunburst/v001.png",
           "provider": "openai",
-          "status": "queued",
-          "started_at": "2026-10-31T22:49:03.092224+08:00"
+          "status": "completed",
+          "started_at": "2026-11-01T00:14:27.640996+08:00",
+          "completed_at": "2026-11-01T00:14:47.585889+08:00"
         },
         {
           "provider": "gemini",
