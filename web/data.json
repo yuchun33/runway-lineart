@@ -22,7 +22,15 @@
             "src": "../output/image/balenciaga/couture-55/look-001/original.jpg",
             "alt": "couture-55 / Look 001 原始圖片"
           },
-          "linearts": []
+          "linearts": [
+            {
+              "src": "../output/image/balenciaga/couture-55/look-001/linearts/gpt-image-2.5-sunburst/v001.png",
+              "alt": "couture-55 / Look 001 / gpt-image-2.5-sunburst / v001",
+              "name": "gpt-image-2.5-sunburst / v001",
+              "model": "gpt-image-2.5-sunburst",
+              "version": "v001"
+            }
+          ]
         },
         {
           "id": "couture-55-look-002",
