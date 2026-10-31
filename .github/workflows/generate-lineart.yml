@@ -1,6 +1,9 @@
 name: Generate queued lineart
 
 on:
+  push:
+    paths:
+      - '.github/workflows/generate-lineart.yml'
   schedule:
     - cron: '0 0 * * *' # 08:00 Asia/Taipei
   workflow_dispatch:
@@ -13,7 +16,14 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  register:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Confirm workflow registration without generating images
+        run: echo 'Workflow registered. Use Run workflow or the daily schedule to generate images.'
   generate:
+    if: github.event_name != 'push'
     runs-on: ubuntu-latest
     timeout-minutes: 25
     env:
