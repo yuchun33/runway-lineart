@@ -45,7 +45,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: uv run --locked python -u -B scripts/run_queue.py
+        run: uv run --locked python -u -B scripts/run_queue.py --provider openai
       - name: Update website image index
         if: ${{ always() && (steps.worker.outcome == 'success' || steps.worker.outcome == 'failure') }}
         run: uv run --locked python -B scripts/update_web_data.py
