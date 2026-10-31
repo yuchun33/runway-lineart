@@ -1,0 +1,8 @@
+﻿.env
+.venv/
+__pycache__/
+output/logs/
+*.part
+scripts/queue.json.tmp
+web/data.json.tmp
+local/

@@ -1,0 +1,87 @@
+name: Generate queued lineart
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 08:00 Asia/Taipei
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generate-lineart-queue
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: astral-sh/setup-uv@v6
+      - name: Install locked dependencies
+        run: uv sync --locked
+      - name: Process one queue item
+        id: worker
+        continue-on-error: true
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: uv run --locked python -u -B scripts/run_queue.py
+      - name: Update website image index
+        if: ${{ always() && (steps.worker.outcome == 'success' || steps.worker.outcome == 'failure') }}
+        run: uv run --locked python -B scripts/update_web_data.py
+      - name: Preserve results for recovery
+        if: ${{ always() && steps.worker.outcome != 'skipped' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: queue-result-${{ github.run_id }}-${{ github.run_attempt }}
+          path: |
+            scripts/queue.json
+            web/data.json
+            output/image/**/linearts/**/*.png
+            output/logs/queue.log
+          retention-days: 30
+      - name: Commit queue status, output images and website index
+        if: ${{ always() && (steps.worker.outcome == 'success' || steps.worker.outcome == 'failure') }}
+        run: |
+          python - <<'PY'
+          import json
+          import subprocess
+          from pathlib import Path
+          root = Path.cwd().resolve()
+          subprocess.run(['git', 'add', '--', 'scripts/queue.json', 'web/data.json'], check=True)
+          queue = json.loads(Path('scripts/queue.json').read_text(encoding='utf-8'))['queue']
+          for job in queue:
+              # A partial photo may already have a successful model output.
+              for generation in job.get('generations', []):
+                  if generation.get('status') != 'completed':
+                      continue
+                  output = (root / generation['output_path']).resolve()
+                  if not output.is_relative_to(root) or output.suffix.lower() != '.png':
+                      raise ValueError(f'Output cannot be saved to this repository: {output}')
+                  if not output.is_file():
+                      raise FileNotFoundError(f'Completed generation output is missing: {output}')
+                  subprocess.run(['git', 'add', '--', str(output.relative_to(root))], check=True)
+          PY
+          if git diff --cached --quiet; then
+            echo 'No queue changes to save.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Update lineart queue results'
+          git fetch origin "$DEFAULT_BRANCH"
+          git rebase "origin/$DEFAULT_BRANCH"
+          git push origin "HEAD:$DEFAULT_BRANCH"
+      - name: Report worker failure
+        if: ${{ always() && steps.worker.outcome == 'failure' }}
+        run: exit 1

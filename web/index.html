@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Runway lineart</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <h1>Runway lineart<span>.</span></h1>
+    </header>
+    <nav id="brands" aria-label="品牌"></nav>
+    <main>
+      <div class="collection">
+        <span id="collection-name"></span
+        ><span id="position" aria-live="polite"></span>
+      </div>
+      <div id="seasons" role="tablist" aria-label="季度"></div>
+      <div id="gallery" role="tabpanel" aria-label="作品展示"></div>
+      <p id="status" role="status">正在載入作品…</p>
+    </main>
+    <aside aria-label="展示工具">
+      <div class="modes" role="group" aria-label="展示模式">
+        <button type="button" data-mode="grid" aria-pressed="true">Grid</button>
+        <button type="button" data-mode="carousel" aria-pressed="false">
+          Carousel
+        </button>
+        <button type="button" data-mode="lineart" aria-pressed="false">
+          Lineart
+        </button>
+        <button type="button" data-mode="original" aria-pressed="false">
+          只顯示原圖
+        </button>
+      </div>
+      <div class="arrows" role="group" aria-label="切換 Look">
+        <button id="previous" type="button" aria-label="上一組 Look">↑</button>
+        <button id="next" type="button" aria-label="下一組 Look">↓</button>
+      </div>
+    </aside>
+    <dialog id="lightbox" aria-label="圖片放大預覽">
+      <button id="close-preview" type="button" aria-label="關閉預覽">
+        Close ×
+      </button>
+      <img id="preview-image" alt="" />
+      <p id="preview-caption"></p>
+    </dialog>
+  </body>
+</html>

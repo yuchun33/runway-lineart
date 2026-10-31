@@ -1,0 +1,27 @@
+name: Project checks
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: astral-sh/setup-uv@v6
+      - run: uv sync --locked
+      - name: Unit tests (no API requests)
+        run: uv run --locked python -B -m unittest discover -s scripts/tests -t . -p 'test*.py'
+      - name: Validate queue and website paths
+        run: uv run --locked python -B -m scripts.check_data
+      - name: Check JavaScript syntax
+        run: node --check web/script.js

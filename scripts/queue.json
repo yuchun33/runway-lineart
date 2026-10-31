@@ -1,0 +1,88 @@
+{
+  "queue": [
+    {
+      "brand": "chanel",
+      "season": "cruise-2026-27",
+      "look": 1,
+      "type": "runway",
+      "image_path": "output/image/chanel/cruise-2026-27/look-001/original.jpg",
+      "status": "partial",
+      "published_at": null,
+      "generations": [
+        {
+          "model": "gpt-image-2.5-sunburst",
+          "version": "v001",
+          "output_path": "output/image/chanel/cruise-2026-27/look-001/linearts/gpt-image-2.5-sunburst/v001.png",
+          "provider": "openai",
+          "status": "completed",
+          "started_at": "2026-10-31T23:36:34.962739+08:00",
+          "completed_at": "2026-10-31T23:37:04.342747+08:00"
+        },
+        {
+          "provider": "gemini",
+          "model": "gemini-3.1-flash-image",
+          "version": "v001",
+          "output_path": "output/image/chanel/cruise-2026-27/look-001/linearts/gemini-3.1-flash-image/v001.png",
+          "status": "queued",
+          "started_at": "2026-10-31T23:05:43.264101+08:00"
+        }
+      ],
+      "started_at": "2026-10-31T23:05:43.264101+08:00"
+    },
+    {
+      "brand": "chanel",
+      "season": "metiers-art-2026",
+      "look": 22,
+      "type": "queued",
+      "image_path": "output/image/chanel/metiers-art-2026/look-022/original.jpg",
+      "status": "queued",
+      "published_at": null,
+      "generations": [
+        {
+          "model": "gpt-image-2.5-sunburst",
+          "version": "v001",
+          "output_path": "output/image/chanel/metiers-art-2026/look-022/linearts/gpt-image-2.5-sunburst/v001.png",
+          "provider": "openai",
+          "status": "queued",
+          "started_at": "2026-10-31T22:49:03.092224+08:00"
+        },
+        {
+          "provider": "gemini",
+          "model": "gemini-3.1-flash-image",
+          "version": "v001",
+          "output_path": "output/image/chanel/metiers-art-2026/look-019/linearts/gemini-3.1-flash-image/v001.png",
+          "status": "queued",
+          "started_at": "2026-10-31T23:06:27.233778+08:00"
+        }
+      ],
+      "started_at": "2026-10-31T23:06:27.233778+08:00"
+    },
+    {
+      "brand": "balenciaga",
+      "season": "couture-55",
+      "look": 1,
+      "type": "runway",
+      "image_path": "output/image/balenciaga/couture-55/look-001/original.jpg",
+      "status": "queued",
+      "published_at": null,
+      "generations": [
+        {
+          "model": "gpt-image-2.5-sunburst",
+          "version": "v001",
+          "output_path": "output/image/balenciaga/couture-55/look-001/linearts/gpt-image-2.5-sunburst/v001.png",
+          "provider": "openai",
+          "status": "queued",
+          "started_at": "2026-10-31T23:08:51.812327+08:00"
+        },
+        {
+          "provider": "gemini",
+          "model": "gemini-3.1-flash-image",
+          "version": "v001",
+          "output_path": "output/image/balenciaga/couture-55/look-001/linearts/gemini-3.1-flash-image/v001.png",
+          "status": "queued"
+        }
+      ],
+      "started_at": "2026-10-31T23:07:10.823741+08:00"
+    }
+  ]
+}

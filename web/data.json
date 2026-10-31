@@ -1,0 +1,3858 @@
+{
+  "brands": [
+    {
+      "id": "balenciaga",
+      "name": "Balenciaga",
+      "looks": [
+        {
+          "id": "couture-54-look-001",
+          "season": "couture-54",
+          "name": "couture-54 / Look 001",
+          "original": {
+            "src": "../output/image/balenciaga/couture-54/look-001/original.jpg",
+            "alt": "couture-54 / Look 001 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-001",
+          "season": "couture-55",
+          "name": "couture-55 / Look 001",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-001/original.jpg",
+            "alt": "couture-55 / Look 001 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-002",
+          "season": "couture-55",
+          "name": "couture-55 / Look 002",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-002/original.jpg",
+            "alt": "couture-55 / Look 002 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-003",
+          "season": "couture-55",
+          "name": "couture-55 / Look 003",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-003/original.jpg",
+            "alt": "couture-55 / Look 003 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-004",
+          "season": "couture-55",
+          "name": "couture-55 / Look 004",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-004/original.jpg",
+            "alt": "couture-55 / Look 004 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-005",
+          "season": "couture-55",
+          "name": "couture-55 / Look 005",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-005/original.jpg",
+            "alt": "couture-55 / Look 005 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-006",
+          "season": "couture-55",
+          "name": "couture-55 / Look 006",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-006/original.jpg",
+            "alt": "couture-55 / Look 006 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-007",
+          "season": "couture-55",
+          "name": "couture-55 / Look 007",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-007/original.jpg",
+            "alt": "couture-55 / Look 007 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-008",
+          "season": "couture-55",
+          "name": "couture-55 / Look 008",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-008/original.jpg",
+            "alt": "couture-55 / Look 008 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-009",
+          "season": "couture-55",
+          "name": "couture-55 / Look 009",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-009/original.jpg",
+            "alt": "couture-55 / Look 009 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-010",
+          "season": "couture-55",
+          "name": "couture-55 / Look 010",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-010/original.jpg",
+            "alt": "couture-55 / Look 010 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-011",
+          "season": "couture-55",
+          "name": "couture-55 / Look 011",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-011/original.jpg",
+            "alt": "couture-55 / Look 011 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-012",
+          "season": "couture-55",
+          "name": "couture-55 / Look 012",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-012/original.jpg",
+            "alt": "couture-55 / Look 012 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-013",
+          "season": "couture-55",
+          "name": "couture-55 / Look 013",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-013/original.jpg",
+            "alt": "couture-55 / Look 013 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-014",
+          "season": "couture-55",
+          "name": "couture-55 / Look 014",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-014/original.jpg",
+            "alt": "couture-55 / Look 014 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-015",
+          "season": "couture-55",
+          "name": "couture-55 / Look 015",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-015/original.jpg",
+            "alt": "couture-55 / Look 015 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-016",
+          "season": "couture-55",
+          "name": "couture-55 / Look 016",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-016/original.jpg",
+            "alt": "couture-55 / Look 016 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-017",
+          "season": "couture-55",
+          "name": "couture-55 / Look 017",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-017/original.jpg",
+            "alt": "couture-55 / Look 017 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-018",
+          "season": "couture-55",
+          "name": "couture-55 / Look 018",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-018/original.jpg",
+            "alt": "couture-55 / Look 018 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-019",
+          "season": "couture-55",
+          "name": "couture-55 / Look 019",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-019/original.jpg",
+            "alt": "couture-55 / Look 019 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-020",
+          "season": "couture-55",
+          "name": "couture-55 / Look 020",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-020/original.jpg",
+            "alt": "couture-55 / Look 020 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-021",
+          "season": "couture-55",
+          "name": "couture-55 / Look 021",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-021/original.jpg",
+            "alt": "couture-55 / Look 021 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-022",
+          "season": "couture-55",
+          "name": "couture-55 / Look 022",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-022/original.jpg",
+            "alt": "couture-55 / Look 022 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-023",
+          "season": "couture-55",
+          "name": "couture-55 / Look 023",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-023/original.jpg",
+            "alt": "couture-55 / Look 023 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-024",
+          "season": "couture-55",
+          "name": "couture-55 / Look 024",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-024/original.jpg",
+            "alt": "couture-55 / Look 024 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-025",
+          "season": "couture-55",
+          "name": "couture-55 / Look 025",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-025/original.jpg",
+            "alt": "couture-55 / Look 025 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-026",
+          "season": "couture-55",
+          "name": "couture-55 / Look 026",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-026/original.jpg",
+            "alt": "couture-55 / Look 026 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-027",
+          "season": "couture-55",
+          "name": "couture-55 / Look 027",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-027/original.jpg",
+            "alt": "couture-55 / Look 027 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-028",
+          "season": "couture-55",
+          "name": "couture-55 / Look 028",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-028/original.jpg",
+            "alt": "couture-55 / Look 028 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-029",
+          "season": "couture-55",
+          "name": "couture-55 / Look 029",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-029/original.jpg",
+            "alt": "couture-55 / Look 029 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-030",
+          "season": "couture-55",
+          "name": "couture-55 / Look 030",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-030/original.jpg",
+            "alt": "couture-55 / Look 030 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-031",
+          "season": "couture-55",
+          "name": "couture-55 / Look 031",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-031/original.jpg",
+            "alt": "couture-55 / Look 031 原始圖片"
+          },
+          "linearts": [
+            {
+              "src": "../output/image/balenciaga/couture-55/look-031/linearts/gpt-image-2.5-sunburst/v001.png",
+              "alt": "couture-55 / Look 031 / gpt-image-2.5-sunburst / v001",
+              "name": "gpt-image-2.5-sunburst / v001",
+              "model": "gpt-image-2.5-sunburst",
+              "version": "v001"
+            }
+          ]
+        },
+        {
+          "id": "couture-55-look-032",
+          "season": "couture-55",
+          "name": "couture-55 / Look 032",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-032/original.jpg",
+            "alt": "couture-55 / Look 032 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-033",
+          "season": "couture-55",
+          "name": "couture-55 / Look 033",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-033/original.jpg",
+            "alt": "couture-55 / Look 033 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-034",
+          "season": "couture-55",
+          "name": "couture-55 / Look 034",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-034/original.jpg",
+            "alt": "couture-55 / Look 034 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-035",
+          "season": "couture-55",
+          "name": "couture-55 / Look 035",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-035/original.jpg",
+            "alt": "couture-55 / Look 035 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-036",
+          "season": "couture-55",
+          "name": "couture-55 / Look 036",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-036/original.jpg",
+            "alt": "couture-55 / Look 036 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-037",
+          "season": "couture-55",
+          "name": "couture-55 / Look 037",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-037/original.jpg",
+            "alt": "couture-55 / Look 037 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-038",
+          "season": "couture-55",
+          "name": "couture-55 / Look 038",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-038/original.jpg",
+            "alt": "couture-55 / Look 038 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-039",
+          "season": "couture-55",
+          "name": "couture-55 / Look 039",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-039/original.jpg",
+            "alt": "couture-55 / Look 039 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-040",
+          "season": "couture-55",
+          "name": "couture-55 / Look 040",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-040/original.jpg",
+            "alt": "couture-55 / Look 040 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-041",
+          "season": "couture-55",
+          "name": "couture-55 / Look 041",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-041/original.jpg",
+            "alt": "couture-55 / Look 041 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-042",
+          "season": "couture-55",
+          "name": "couture-55 / Look 042",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-042/original.jpg",
+            "alt": "couture-55 / Look 042 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-043",
+          "season": "couture-55",
+          "name": "couture-55 / Look 043",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-043/original.jpg",
+            "alt": "couture-55 / Look 043 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-044",
+          "season": "couture-55",
+          "name": "couture-55 / Look 044",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-044/original.jpg",
+            "alt": "couture-55 / Look 044 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-045",
+          "season": "couture-55",
+          "name": "couture-55 / Look 045",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-045/original.jpg",
+            "alt": "couture-55 / Look 045 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-046",
+          "season": "couture-55",
+          "name": "couture-55 / Look 046",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-046/original.jpg",
+            "alt": "couture-55 / Look 046 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-047",
+          "season": "couture-55",
+          "name": "couture-55 / Look 047",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-047/original.jpg",
+            "alt": "couture-55 / Look 047 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-048",
+          "season": "couture-55",
+          "name": "couture-55 / Look 048",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-048/original.jpg",
+            "alt": "couture-55 / Look 048 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-049",
+          "season": "couture-55",
+          "name": "couture-55 / Look 049",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-049/original.jpg",
+            "alt": "couture-55 / Look 049 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-050",
+          "season": "couture-55",
+          "name": "couture-55 / Look 050",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-050/original.jpg",
+            "alt": "couture-55 / Look 050 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-051",
+          "season": "couture-55",
+          "name": "couture-55 / Look 051",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-051/original.jpg",
+            "alt": "couture-55 / Look 051 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "couture-55-look-052",
+          "season": "couture-55",
+          "name": "couture-55 / Look 052",
+          "original": {
+            "src": "../output/image/balenciaga/couture-55/look-052/original.jpg",
+            "alt": "couture-55 / Look 052 原始圖片"
+          },
+          "linearts": []
+        }
+      ]
+    },
+    {
+      "id": "chanel",
+      "name": "Chanel",
+      "looks": [
+        {
+          "id": "cruise-2026-27-look-001",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 001",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-001/original.jpg",
+            "alt": "cruise-2026-27 / Look 001 原始圖片"
+          },
+          "linearts": [
+            {
+              "src": "../output/image/chanel/cruise-2026-27/look-001/linearts/gpt-image-2.5-sunburst/v001.png",
+              "alt": "cruise-2026-27 / Look 001 / gpt-image-2.5-sunburst / v001",
+              "name": "gpt-image-2.5-sunburst / v001",
+              "model": "gpt-image-2.5-sunburst",
+              "version": "v001"
+            }
+          ]
+        },
+        {
+          "id": "cruise-2026-27-look-002",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 002",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-002/original.jpg",
+            "alt": "cruise-2026-27 / Look 002 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-003",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 003",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-003/original.jpg",
+            "alt": "cruise-2026-27 / Look 003 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-004",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 004",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-004/original.jpg",
+            "alt": "cruise-2026-27 / Look 004 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-005",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 005",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-005/original.jpg",
+            "alt": "cruise-2026-27 / Look 005 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-006",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 006",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-006/original.jpg",
+            "alt": "cruise-2026-27 / Look 006 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-007",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 007",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-007/original.jpg",
+            "alt": "cruise-2026-27 / Look 007 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-008",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 008",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-008/original.jpg",
+            "alt": "cruise-2026-27 / Look 008 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-009",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 009",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-009/original.jpg",
+            "alt": "cruise-2026-27 / Look 009 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-010",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 010",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-010/original.jpg",
+            "alt": "cruise-2026-27 / Look 010 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-011",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 011",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-011/original.jpg",
+            "alt": "cruise-2026-27 / Look 011 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-012",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 012",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-012/original.jpg",
+            "alt": "cruise-2026-27 / Look 012 原始圖片"
+          },
+          "linearts": [
+            {
+              "src": "../output/image/chanel/cruise-2026-27/look-012/linearts/gpt-image-2.5-sunburst/v001.png",
+              "alt": "cruise-2026-27 / Look 012 / gpt-image-2.5-sunburst / v001",
+              "name": "gpt-image-2.5-sunburst / v001",
+              "model": "gpt-image-2.5-sunburst",
+              "version": "v001"
+            }
+          ]
+        },
+        {
+          "id": "cruise-2026-27-look-013",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 013",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-013/original.jpg",
+            "alt": "cruise-2026-27 / Look 013 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-014",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 014",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-014/original.jpg",
+            "alt": "cruise-2026-27 / Look 014 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-015",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 015",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-015/original.jpg",
+            "alt": "cruise-2026-27 / Look 015 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-016",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 016",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-016/original.jpg",
+            "alt": "cruise-2026-27 / Look 016 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-017",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 017",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-017/original.jpg",
+            "alt": "cruise-2026-27 / Look 017 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-018",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 018",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-018/original.jpg",
+            "alt": "cruise-2026-27 / Look 018 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-019",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 019",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-019/original.jpg",
+            "alt": "cruise-2026-27 / Look 019 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-020",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 020",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-020/original.jpg",
+            "alt": "cruise-2026-27 / Look 020 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-021",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 021",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-021/original.jpg",
+            "alt": "cruise-2026-27 / Look 021 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-022",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 022",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-022/original.jpg",
+            "alt": "cruise-2026-27 / Look 022 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-023",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 023",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-023/original.jpg",
+            "alt": "cruise-2026-27 / Look 023 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-024",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 024",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-024/original.jpg",
+            "alt": "cruise-2026-27 / Look 024 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-025",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 025",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-025/original.jpg",
+            "alt": "cruise-2026-27 / Look 025 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-026",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 026",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-026/original.jpg",
+            "alt": "cruise-2026-27 / Look 026 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-027",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 027",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-027/original.jpg",
+            "alt": "cruise-2026-27 / Look 027 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-028",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 028",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-028/original.jpg",
+            "alt": "cruise-2026-27 / Look 028 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-029",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 029",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-029/original.jpg",
+            "alt": "cruise-2026-27 / Look 029 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-030",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 030",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-030/original.jpg",
+            "alt": "cruise-2026-27 / Look 030 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-031",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 031",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-031/original.jpg",
+            "alt": "cruise-2026-27 / Look 031 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-032",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 032",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-032/original.jpg",
+            "alt": "cruise-2026-27 / Look 032 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-033",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 033",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-033/original.jpg",
+            "alt": "cruise-2026-27 / Look 033 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-034",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 034",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-034/original.jpg",
+            "alt": "cruise-2026-27 / Look 034 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-035",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 035",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-035/original.jpg",
+            "alt": "cruise-2026-27 / Look 035 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-036",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 036",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-036/original.jpg",
+            "alt": "cruise-2026-27 / Look 036 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-037",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 037",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-037/original.jpg",
+            "alt": "cruise-2026-27 / Look 037 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-038",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 038",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-038/original.jpg",
+            "alt": "cruise-2026-27 / Look 038 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-039",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 039",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-039/original.jpg",
+            "alt": "cruise-2026-27 / Look 039 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-040",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 040",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-040/original.jpg",
+            "alt": "cruise-2026-27 / Look 040 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-041",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 041",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-041/original.jpg",
+            "alt": "cruise-2026-27 / Look 041 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-042",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 042",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-042/original.jpg",
+            "alt": "cruise-2026-27 / Look 042 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-043",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 043",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-043/original.jpg",
+            "alt": "cruise-2026-27 / Look 043 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-044",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 044",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-044/original.jpg",
+            "alt": "cruise-2026-27 / Look 044 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-045",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 045",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-045/original.jpg",
+            "alt": "cruise-2026-27 / Look 045 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-046",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 046",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-046/original.jpg",
+            "alt": "cruise-2026-27 / Look 046 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-047",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 047",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-047/original.jpg",
+            "alt": "cruise-2026-27 / Look 047 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-048",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 048",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-048/original.jpg",
+            "alt": "cruise-2026-27 / Look 048 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-049",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 049",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-049/original.jpg",
+            "alt": "cruise-2026-27 / Look 049 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-050",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 050",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-050/original.jpg",
+            "alt": "cruise-2026-27 / Look 050 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-051",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 051",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-051/original.jpg",
+            "alt": "cruise-2026-27 / Look 051 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-052",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 052",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-052/original.jpg",
+            "alt": "cruise-2026-27 / Look 052 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-053",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 053",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-053/original.jpg",
+            "alt": "cruise-2026-27 / Look 053 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-054",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 054",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-054/original.jpg",
+            "alt": "cruise-2026-27 / Look 054 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-055",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 055",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-055/original.jpg",
+            "alt": "cruise-2026-27 / Look 055 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-056",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 056",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-056/original.jpg",
+            "alt": "cruise-2026-27 / Look 056 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-057",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 057",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-057/original.jpg",
+            "alt": "cruise-2026-27 / Look 057 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-058",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 058",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-058/original.jpg",
+            "alt": "cruise-2026-27 / Look 058 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-059",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 059",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-059/original.jpg",
+            "alt": "cruise-2026-27 / Look 059 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-060",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 060",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-060/original.jpg",
+            "alt": "cruise-2026-27 / Look 060 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-061",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 061",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-061/original.jpg",
+            "alt": "cruise-2026-27 / Look 061 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-062",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 062",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-062/original.jpg",
+            "alt": "cruise-2026-27 / Look 062 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-063",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 063",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-063/original.jpg",
+            "alt": "cruise-2026-27 / Look 063 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-064",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 064",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-064/original.jpg",
+            "alt": "cruise-2026-27 / Look 064 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-065",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 065",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-065/original.jpg",
+            "alt": "cruise-2026-27 / Look 065 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-066",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 066",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-066/original.jpg",
+            "alt": "cruise-2026-27 / Look 066 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-067",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 067",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-067/original.jpg",
+            "alt": "cruise-2026-27 / Look 067 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-068",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 068",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-068/original.jpg",
+            "alt": "cruise-2026-27 / Look 068 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-069",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 069",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-069/original.jpg",
+            "alt": "cruise-2026-27 / Look 069 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-070",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 070",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-070/original.jpg",
+            "alt": "cruise-2026-27 / Look 070 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-071",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 071",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-071/original.jpg",
+            "alt": "cruise-2026-27 / Look 071 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-072",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 072",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-072/original.jpg",
+            "alt": "cruise-2026-27 / Look 072 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-073",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 073",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-073/original.jpg",
+            "alt": "cruise-2026-27 / Look 073 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-074",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 074",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-074/original.jpg",
+            "alt": "cruise-2026-27 / Look 074 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-075",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 075",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-075/original.jpg",
+            "alt": "cruise-2026-27 / Look 075 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-076",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 076",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-076/original.jpg",
+            "alt": "cruise-2026-27 / Look 076 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-077",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 077",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-077/original.jpg",
+            "alt": "cruise-2026-27 / Look 077 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-078",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 078",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-078/original.jpg",
+            "alt": "cruise-2026-27 / Look 078 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "cruise-2026-27-look-079",
+          "season": "cruise-2026-27",
+          "name": "cruise-2026-27 / Look 079",
+          "original": {
+            "src": "../output/image/chanel/cruise-2026-27/look-079/original.jpg",
+            "alt": "cruise-2026-27 / Look 079 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-001",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 001",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-001/original.jpg",
+            "alt": "metiers-art-2026 / Look 001 原始圖片"
+          },
+          "linearts": [
+            {
+              "src": "../output/image/chanel/metiers-art-2026/look-001/linearts/gpt-image-2.5-sunburst/v001.png",
+              "alt": "Chanel metiers-art-2026 / Look 001 / gpt-image-2.5-sunburst / v001",
+              "name": "gpt-image-2.5-sunburst / v001",
+              "model": "gpt-image-2.5-sunburst",
+              "version": "v001"
+            }
+          ]
+        },
+        {
+          "id": "metiers-art-2026-look-002",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 002",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-002/original.jpg",
+            "alt": "metiers-art-2026 / Look 002 原始圖片"
+          },
+          "linearts": [
+            {
+              "src": "../output/image/chanel/metiers-art-2026/look-002/linearts/gpt-image-2.5-sunburst/v001.png",
+              "alt": "Chanel metiers-art-2026 / Look 002 / gpt-image-2.5-sunburst / v001",
+              "name": "gpt-image-2.5-sunburst / v001",
+              "model": "gpt-image-2.5-sunburst",
+              "version": "v001"
+            }
+          ]
+        },
+        {
+          "id": "metiers-art-2026-look-003",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 003",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-003/original.jpg",
+            "alt": "metiers-art-2026 / Look 003 原始圖片"
+          },
+          "linearts": [
+            {
+              "src": "../output/image/chanel/metiers-art-2026/look-003/linearts/gpt-image-2.5-sunburst/v001.png",
+              "alt": "Chanel metiers-art-2026 / Look 003 / gpt-image-2.5-sunburst / v001",
+              "name": "gpt-image-2.5-sunburst / v001",
+              "model": "gpt-image-2.5-sunburst",
+              "version": "v001"
+            }
+          ]
+        },
+        {
+          "id": "metiers-art-2026-look-004",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 004",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-004/original.jpg",
+            "alt": "metiers-art-2026 / Look 004 原始圖片"
+          },
+          "linearts": [
+            {
+              "src": "../output/image/chanel/metiers-art-2026/look-004/linearts/gpt-image-2.5-sunburst/v001.png",
+              "alt": "Chanel metiers-art-2026 / Look 004 / gpt-image-2.5-sunburst / v001",
+              "name": "gpt-image-2.5-sunburst / v001",
+              "model": "gpt-image-2.5-sunburst",
+              "version": "v001"
+            }
+          ]
+        },
+        {
+          "id": "metiers-art-2026-look-005",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 005",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-005/original.jpg",
+            "alt": "metiers-art-2026 / Look 005 原始圖片"
+          },
+          "linearts": [
+            {
+              "src": "../output/image/chanel/metiers-art-2026/look-005/linearts/gpt-image-2.5-sunburst/v001.png",
+              "alt": "Chanel metiers-art-2026 / Look 005 / gpt-image-2.5-sunburst / v001",
+              "name": "gpt-image-2.5-sunburst / v001",
+              "model": "gpt-image-2.5-sunburst",
+              "version": "v001"
+            }
+          ]
+        },
+        {
+          "id": "metiers-art-2026-look-006",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 006",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-006/original.jpg",
+            "alt": "metiers-art-2026 / Look 006 原始圖片"
+          },
+          "linearts": [
+            {
+              "src": "../output/image/chanel/metiers-art-2026/look-006/linearts/gpt-image-2.5-sunburst/v001.png",
+              "alt": "Chanel metiers-art-2026 / Look 006 / gpt-image-2.5-sunburst / v001",
+              "name": "gpt-image-2.5-sunburst / v001",
+              "model": "gpt-image-2.5-sunburst",
+              "version": "v001"
+            }
+          ]
+        },
+        {
+          "id": "metiers-art-2026-look-007",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 007",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-007/original.jpg",
+            "alt": "metiers-art-2026 / Look 007 原始圖片"
+          },
+          "linearts": [
+            {
+              "src": "../output/image/chanel/metiers-art-2026/look-007/linearts/gpt-image-2.5-sunburst/v001.png",
+              "alt": "Chanel metiers-art-2026 / Look 007 / gpt-image-2.5-sunburst / v001",
+              "name": "gpt-image-2.5-sunburst / v001",
+              "model": "gpt-image-2.5-sunburst",
+              "version": "v001"
+            }
+          ]
+        },
+        {
+          "id": "metiers-art-2026-look-008",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 008",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-008/original.jpg",
+            "alt": "metiers-art-2026 / Look 008 原始圖片"
+          },
+          "linearts": [
+            {
+              "src": "../output/image/chanel/metiers-art-2026/look-008/linearts/gpt-image-2.5-sunburst/v001.png",
+              "alt": "Chanel metiers-art-2026 / Look 008 / gpt-image-2.5-sunburst / v001",
+              "name": "gpt-image-2.5-sunburst / v001",
+              "model": "gpt-image-2.5-sunburst",
+              "version": "v001"
+            }
+          ]
+        },
+        {
+          "id": "metiers-art-2026-look-009",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 009",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-009/original.jpg",
+            "alt": "metiers-art-2026 / Look 009 原始圖片"
+          },
+          "linearts": [
+            {
+              "src": "../output/image/chanel/metiers-art-2026/look-009/linearts/gpt-image-2.5-sunburst/v001.png",
+              "alt": "Chanel metiers-art-2026 / Look 009 / gpt-image-2.5-sunburst / v001",
+              "name": "gpt-image-2.5-sunburst / v001",
+              "model": "gpt-image-2.5-sunburst",
+              "version": "v001"
+            }
+          ]
+        },
+        {
+          "id": "metiers-art-2026-look-010",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 010",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-010/original.jpg",
+            "alt": "metiers-art-2026 / Look 010 原始圖片"
+          },
+          "linearts": [
+            {
+              "src": "../output/image/chanel/metiers-art-2026/look-010/linearts/gpt-image-2.5-sunburst/v001.png",
+              "alt": "Chanel metiers-art-2026 / Look 010 / gpt-image-2.5-sunburst / v001",
+              "name": "gpt-image-2.5-sunburst / v001",
+              "model": "gpt-image-2.5-sunburst",
+              "version": "v001"
+            }
+          ]
+        },
+        {
+          "id": "metiers-art-2026-look-011",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 011",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-011/original.jpg",
+            "alt": "metiers-art-2026 / Look 011 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-012",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 012",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-012/original.jpg",
+            "alt": "metiers-art-2026 / Look 012 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-013",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 013",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-013/original.jpg",
+            "alt": "metiers-art-2026 / Look 013 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-014",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 014",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-014/original.jpg",
+            "alt": "metiers-art-2026 / Look 014 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-015",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 015",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-015/original.jpg",
+            "alt": "metiers-art-2026 / Look 015 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-016",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 016",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-016/original.jpg",
+            "alt": "metiers-art-2026 / Look 016 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-017",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 017",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-017/original.jpg",
+            "alt": "metiers-art-2026 / Look 017 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-018",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 018",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-018/original.jpg",
+            "alt": "metiers-art-2026 / Look 018 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-019",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 019",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-019/original.jpg",
+            "alt": "metiers-art-2026 / Look 019 原始圖片"
+          },
+          "linearts": [
+            {
+              "src": "../output/image/chanel/metiers-art-2026/look-019/linearts/gpt-image-2.5-sunburst/v001.png",
+              "alt": "metiers-art-2026 / Look 019 / gpt-image-2.5-sunburst / v001",
+              "name": "gpt-image-2.5-sunburst / v001",
+              "model": "gpt-image-2.5-sunburst",
+              "version": "v001"
+            }
+          ]
+        },
+        {
+          "id": "metiers-art-2026-look-020",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 020",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-020/original.jpg",
+            "alt": "metiers-art-2026 / Look 020 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-021",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 021",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-021/original.jpg",
+            "alt": "metiers-art-2026 / Look 021 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-022",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 022",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-022/original.jpg",
+            "alt": "metiers-art-2026 / Look 022 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-023",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 023",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-023/original.jpg",
+            "alt": "metiers-art-2026 / Look 023 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-024",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 024",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-024/original.jpg",
+            "alt": "metiers-art-2026 / Look 024 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-025",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 025",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-025/original.jpg",
+            "alt": "metiers-art-2026 / Look 025 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-026",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 026",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-026/original.jpg",
+            "alt": "metiers-art-2026 / Look 026 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-027",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 027",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-027/original.jpg",
+            "alt": "metiers-art-2026 / Look 027 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-028",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 028",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-028/original.jpg",
+            "alt": "metiers-art-2026 / Look 028 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-029",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 029",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-029/original.jpg",
+            "alt": "metiers-art-2026 / Look 029 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-030",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 030",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-030/original.jpg",
+            "alt": "metiers-art-2026 / Look 030 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-031",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 031",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-031/original.jpg",
+            "alt": "metiers-art-2026 / Look 031 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-032",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 032",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-032/original.jpg",
+            "alt": "metiers-art-2026 / Look 032 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-033",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 033",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-033/original.jpg",
+            "alt": "metiers-art-2026 / Look 033 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-034",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 034",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-034/original.jpg",
+            "alt": "metiers-art-2026 / Look 034 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-035",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 035",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-035/original.jpg",
+            "alt": "metiers-art-2026 / Look 035 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-036",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 036",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-036/original.jpg",
+            "alt": "metiers-art-2026 / Look 036 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-037",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 037",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-037/original.jpg",
+            "alt": "metiers-art-2026 / Look 037 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-038",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 038",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-038/original.jpg",
+            "alt": "metiers-art-2026 / Look 038 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-039",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 039",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-039/original.jpg",
+            "alt": "metiers-art-2026 / Look 039 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-040",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 040",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-040/original.jpg",
+            "alt": "metiers-art-2026 / Look 040 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-041",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 041",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-041/original.jpg",
+            "alt": "metiers-art-2026 / Look 041 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-042",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 042",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-042/original.jpg",
+            "alt": "metiers-art-2026 / Look 042 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-043",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 043",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-043/original.jpg",
+            "alt": "metiers-art-2026 / Look 043 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-044",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 044",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-044/original.jpg",
+            "alt": "metiers-art-2026 / Look 044 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-045",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 045",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-045/original.jpg",
+            "alt": "metiers-art-2026 / Look 045 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-046",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 046",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-046/original.jpg",
+            "alt": "metiers-art-2026 / Look 046 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-047",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 047",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-047/original.jpg",
+            "alt": "metiers-art-2026 / Look 047 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-048",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 048",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-048/original.jpg",
+            "alt": "metiers-art-2026 / Look 048 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-049",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 049",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-049/original.jpg",
+            "alt": "metiers-art-2026 / Look 049 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-050",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 050",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-050/original.jpg",
+            "alt": "metiers-art-2026 / Look 050 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-051",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 051",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-051/original.jpg",
+            "alt": "metiers-art-2026 / Look 051 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-052",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 052",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-052/original.jpg",
+            "alt": "metiers-art-2026 / Look 052 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-053",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 053",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-053/original.jpg",
+            "alt": "metiers-art-2026 / Look 053 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-054",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 054",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-054/original.jpg",
+            "alt": "metiers-art-2026 / Look 054 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-055",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 055",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-055/original.jpg",
+            "alt": "metiers-art-2026 / Look 055 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-056",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 056",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-056/original.jpg",
+            "alt": "metiers-art-2026 / Look 056 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-057",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 057",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-057/original.jpg",
+            "alt": "metiers-art-2026 / Look 057 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-058",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 058",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-058/original.jpg",
+            "alt": "metiers-art-2026 / Look 058 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-059",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 059",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-059/original.jpg",
+            "alt": "metiers-art-2026 / Look 059 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-060",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 060",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-060/original.jpg",
+            "alt": "metiers-art-2026 / Look 060 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-061",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 061",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-061/original.jpg",
+            "alt": "metiers-art-2026 / Look 061 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-062",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 062",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-062/original.jpg",
+            "alt": "metiers-art-2026 / Look 062 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-063",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 063",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-063/original.jpg",
+            "alt": "metiers-art-2026 / Look 063 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-064",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 064",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-064/original.jpg",
+            "alt": "metiers-art-2026 / Look 064 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-065",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 065",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-065/original.jpg",
+            "alt": "metiers-art-2026 / Look 065 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-066",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 066",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-066/original.jpg",
+            "alt": "metiers-art-2026 / Look 066 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-067",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 067",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-067/original.jpg",
+            "alt": "metiers-art-2026 / Look 067 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-068",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 068",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-068/original.jpg",
+            "alt": "metiers-art-2026 / Look 068 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-069",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 069",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-069/original.jpg",
+            "alt": "metiers-art-2026 / Look 069 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-070",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 070",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-070/original.jpg",
+            "alt": "metiers-art-2026 / Look 070 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-071",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 071",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-071/original.jpg",
+            "alt": "metiers-art-2026 / Look 071 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-072",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 072",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-072/original.jpg",
+            "alt": "metiers-art-2026 / Look 072 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-073",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 073",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-073/original.jpg",
+            "alt": "metiers-art-2026 / Look 073 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-074",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 074",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-074/original.jpg",
+            "alt": "metiers-art-2026 / Look 074 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-075",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 075",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-075/original.jpg",
+            "alt": "metiers-art-2026 / Look 075 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-076",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 076",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-076/original.jpg",
+            "alt": "metiers-art-2026 / Look 076 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-077",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 077",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-077/original.jpg",
+            "alt": "metiers-art-2026 / Look 077 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-078",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 078",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-078/original.jpg",
+            "alt": "metiers-art-2026 / Look 078 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-079",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 079",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-079/original.jpg",
+            "alt": "metiers-art-2026 / Look 079 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-080",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 080",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-080/original.jpg",
+            "alt": "metiers-art-2026 / Look 080 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "metiers-art-2026-look-081",
+          "season": "metiers-art-2026",
+          "name": "metiers-art-2026 / Look 081",
+          "original": {
+            "src": "../output/image/chanel/metiers-art-2026/look-081/original.jpg",
+            "alt": "metiers-art-2026 / Look 081 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-001",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 001",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-001/original.jpg",
+            "alt": "spring-summer-2026 / Look 001 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-002",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 002",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-002/original.jpg",
+            "alt": "spring-summer-2026 / Look 002 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-003",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 003",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-003/original.jpg",
+            "alt": "spring-summer-2026 / Look 003 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-004",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 004",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-004/original.jpg",
+            "alt": "spring-summer-2026 / Look 004 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-005",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 005",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-005/original.jpg",
+            "alt": "spring-summer-2026 / Look 005 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-006",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 006",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-006/original.jpg",
+            "alt": "spring-summer-2026 / Look 006 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-007",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 007",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-007/original.jpg",
+            "alt": "spring-summer-2026 / Look 007 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-008",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 008",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-008/original.jpg",
+            "alt": "spring-summer-2026 / Look 008 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-009",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 009",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-009/original.jpg",
+            "alt": "spring-summer-2026 / Look 009 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-010",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 010",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-010/original.jpg",
+            "alt": "spring-summer-2026 / Look 010 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-011",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 011",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-011/original.jpg",
+            "alt": "spring-summer-2026 / Look 011 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-012",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 012",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-012/original.jpg",
+            "alt": "spring-summer-2026 / Look 012 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-013",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 013",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-013/original.jpg",
+            "alt": "spring-summer-2026 / Look 013 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-014",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 014",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-014/original.jpg",
+            "alt": "spring-summer-2026 / Look 014 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-015",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 015",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-015/original.jpg",
+            "alt": "spring-summer-2026 / Look 015 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-016",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 016",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-016/original.jpg",
+            "alt": "spring-summer-2026 / Look 016 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-017",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 017",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-017/original.jpg",
+            "alt": "spring-summer-2026 / Look 017 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-018",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 018",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-018/original.jpg",
+            "alt": "spring-summer-2026 / Look 018 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-019",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 019",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-019/original.jpg",
+            "alt": "spring-summer-2026 / Look 019 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-020",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 020",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-020/original.jpg",
+            "alt": "spring-summer-2026 / Look 020 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-021",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 021",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-021/original.jpg",
+            "alt": "spring-summer-2026 / Look 021 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-022",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 022",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-022/original.jpg",
+            "alt": "spring-summer-2026 / Look 022 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-023",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 023",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-023/original.jpg",
+            "alt": "spring-summer-2026 / Look 023 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-024",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 024",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-024/original.jpg",
+            "alt": "spring-summer-2026 / Look 024 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-025",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 025",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-025/original.jpg",
+            "alt": "spring-summer-2026 / Look 025 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-026",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 026",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-026/original.jpg",
+            "alt": "spring-summer-2026 / Look 026 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-027",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 027",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-027/original.jpg",
+            "alt": "spring-summer-2026 / Look 027 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-028",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 028",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-028/original.jpg",
+            "alt": "spring-summer-2026 / Look 028 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-029",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 029",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-029/original.jpg",
+            "alt": "spring-summer-2026 / Look 029 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-030",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 030",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-030/original.jpg",
+            "alt": "spring-summer-2026 / Look 030 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-031",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 031",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-031/original.jpg",
+            "alt": "spring-summer-2026 / Look 031 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-032",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 032",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-032/original.jpg",
+            "alt": "spring-summer-2026 / Look 032 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-033",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 033",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-033/original.jpg",
+            "alt": "spring-summer-2026 / Look 033 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-034",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 034",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-034/original.jpg",
+            "alt": "spring-summer-2026 / Look 034 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-035",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 035",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-035/original.jpg",
+            "alt": "spring-summer-2026 / Look 035 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-036",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 036",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-036/original.jpg",
+            "alt": "spring-summer-2026 / Look 036 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-037",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 037",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-037/original.jpg",
+            "alt": "spring-summer-2026 / Look 037 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-038",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 038",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-038/original.jpg",
+            "alt": "spring-summer-2026 / Look 038 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-039",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 039",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-039/original.jpg",
+            "alt": "spring-summer-2026 / Look 039 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-040",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 040",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-040/original.jpg",
+            "alt": "spring-summer-2026 / Look 040 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-041",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 041",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-041/original.jpg",
+            "alt": "spring-summer-2026 / Look 041 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-042",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 042",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-042/original.jpg",
+            "alt": "spring-summer-2026 / Look 042 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-043",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 043",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-043/original.jpg",
+            "alt": "spring-summer-2026 / Look 043 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-044",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 044",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-044/original.jpg",
+            "alt": "spring-summer-2026 / Look 044 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-045",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 045",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-045/original.jpg",
+            "alt": "spring-summer-2026 / Look 045 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-046",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 046",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-046/original.jpg",
+            "alt": "spring-summer-2026 / Look 046 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-047",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 047",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-047/original.jpg",
+            "alt": "spring-summer-2026 / Look 047 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-048",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 048",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-048/original.jpg",
+            "alt": "spring-summer-2026 / Look 048 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-049",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 049",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-049/original.jpg",
+            "alt": "spring-summer-2026 / Look 049 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-050",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 050",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-050/original.jpg",
+            "alt": "spring-summer-2026 / Look 050 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-051",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 051",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-051/original.jpg",
+            "alt": "spring-summer-2026 / Look 051 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-052",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 052",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-052/original.jpg",
+            "alt": "spring-summer-2026 / Look 052 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-053",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 053",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-053/original.jpg",
+            "alt": "spring-summer-2026 / Look 053 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-054",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 054",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-054/original.jpg",
+            "alt": "spring-summer-2026 / Look 054 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-055",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 055",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-055/original.jpg",
+            "alt": "spring-summer-2026 / Look 055 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-056",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 056",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-056/original.jpg",
+            "alt": "spring-summer-2026 / Look 056 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-057",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 057",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-057/original.jpg",
+            "alt": "spring-summer-2026 / Look 057 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-058",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 058",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-058/original.jpg",
+            "alt": "spring-summer-2026 / Look 058 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-059",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 059",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-059/original.jpg",
+            "alt": "spring-summer-2026 / Look 059 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-060",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 060",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-060/original.jpg",
+            "alt": "spring-summer-2026 / Look 060 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-061",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 061",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-061/original.jpg",
+            "alt": "spring-summer-2026 / Look 061 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-062",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 062",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-062/original.jpg",
+            "alt": "spring-summer-2026 / Look 062 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-063",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 063",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-063/original.jpg",
+            "alt": "spring-summer-2026 / Look 063 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-064",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 064",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-064/original.jpg",
+            "alt": "spring-summer-2026 / Look 064 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-065",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 065",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-065/original.jpg",
+            "alt": "spring-summer-2026 / Look 065 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-066",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 066",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-066/original.jpg",
+            "alt": "spring-summer-2026 / Look 066 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-067",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 067",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-067/original.jpg",
+            "alt": "spring-summer-2026 / Look 067 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-068",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 068",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-068/original.jpg",
+            "alt": "spring-summer-2026 / Look 068 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-069",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 069",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-069/original.jpg",
+            "alt": "spring-summer-2026 / Look 069 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-070",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 070",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-070/original.jpg",
+            "alt": "spring-summer-2026 / Look 070 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-071",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 071",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-071/original.jpg",
+            "alt": "spring-summer-2026 / Look 071 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-072",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 072",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-072/original.jpg",
+            "alt": "spring-summer-2026 / Look 072 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-073",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 073",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-073/original.jpg",
+            "alt": "spring-summer-2026 / Look 073 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-074",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 074",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-074/original.jpg",
+            "alt": "spring-summer-2026 / Look 074 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-075",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 075",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-075/original.jpg",
+            "alt": "spring-summer-2026 / Look 075 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-076",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 076",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-076/original.jpg",
+            "alt": "spring-summer-2026 / Look 076 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2026-look-077",
+          "season": "spring-summer-2026",
+          "name": "spring-summer-2026 / Look 077",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2026/look-077/original.jpg",
+            "alt": "spring-summer-2026 / Look 077 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-001",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 001",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-001/original.jpg",
+            "alt": "spring-summer-2027 / Look 001 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-002",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 002",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-002/original.jpg",
+            "alt": "spring-summer-2027 / Look 002 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-003",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 003",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-003/original.jpg",
+            "alt": "spring-summer-2027 / Look 003 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-004",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 004",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-004/original.jpg",
+            "alt": "spring-summer-2027 / Look 004 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-005",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 005",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-005/original.jpg",
+            "alt": "spring-summer-2027 / Look 005 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-006",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 006",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-006/original.jpg",
+            "alt": "spring-summer-2027 / Look 006 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-007",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 007",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-007/original.jpg",
+            "alt": "spring-summer-2027 / Look 007 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-008",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 008",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-008/original.jpg",
+            "alt": "spring-summer-2027 / Look 008 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-009",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 009",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-009/original.jpg",
+            "alt": "spring-summer-2027 / Look 009 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-010",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 010",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-010/original.jpg",
+            "alt": "spring-summer-2027 / Look 010 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-011",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 011",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-011/original.jpg",
+            "alt": "spring-summer-2027 / Look 011 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-012",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 012",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-012/original.jpg",
+            "alt": "spring-summer-2027 / Look 012 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-013",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 013",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-013/original.jpg",
+            "alt": "spring-summer-2027 / Look 013 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-014",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 014",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-014/original.jpg",
+            "alt": "spring-summer-2027 / Look 014 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-015",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 015",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-015/original.jpg",
+            "alt": "spring-summer-2027 / Look 015 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-016",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 016",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-016/original.jpg",
+            "alt": "spring-summer-2027 / Look 016 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-017",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 017",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-017/original.jpg",
+            "alt": "spring-summer-2027 / Look 017 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-018",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 018",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-018/original.jpg",
+            "alt": "spring-summer-2027 / Look 018 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-019",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 019",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-019/original.jpg",
+            "alt": "spring-summer-2027 / Look 019 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-020",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 020",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-020/original.jpg",
+            "alt": "spring-summer-2027 / Look 020 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-021",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 021",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-021/original.jpg",
+            "alt": "spring-summer-2027 / Look 021 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-022",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 022",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-022/original.jpg",
+            "alt": "spring-summer-2027 / Look 022 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-023",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 023",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-023/original.jpg",
+            "alt": "spring-summer-2027 / Look 023 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-024",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 024",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-024/original.jpg",
+            "alt": "spring-summer-2027 / Look 024 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-025",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 025",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-025/original.jpg",
+            "alt": "spring-summer-2027 / Look 025 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-026",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 026",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-026/original.jpg",
+            "alt": "spring-summer-2027 / Look 026 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-027",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 027",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-027/original.jpg",
+            "alt": "spring-summer-2027 / Look 027 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-028",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 028",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-028/original.jpg",
+            "alt": "spring-summer-2027 / Look 028 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-029",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 029",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-029/original.jpg",
+            "alt": "spring-summer-2027 / Look 029 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-030",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 030",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-030/original.jpg",
+            "alt": "spring-summer-2027 / Look 030 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-031",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 031",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-031/original.jpg",
+            "alt": "spring-summer-2027 / Look 031 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-032",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 032",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-032/original.jpg",
+            "alt": "spring-summer-2027 / Look 032 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-033",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 033",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-033/original.jpg",
+            "alt": "spring-summer-2027 / Look 033 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-034",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 034",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-034/original.jpg",
+            "alt": "spring-summer-2027 / Look 034 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-035",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 035",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-035/original.jpg",
+            "alt": "spring-summer-2027 / Look 035 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-036",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 036",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-036/original.jpg",
+            "alt": "spring-summer-2027 / Look 036 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-037",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 037",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-037/original.jpg",
+            "alt": "spring-summer-2027 / Look 037 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-038",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 038",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-038/original.jpg",
+            "alt": "spring-summer-2027 / Look 038 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-039",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 039",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-039/original.jpg",
+            "alt": "spring-summer-2027 / Look 039 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-040",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 040",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-040/original.jpg",
+            "alt": "spring-summer-2027 / Look 040 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-041",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 041",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-041/original.jpg",
+            "alt": "spring-summer-2027 / Look 041 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-042",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 042",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-042/original.jpg",
+            "alt": "spring-summer-2027 / Look 042 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-043",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 043",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-043/original.jpg",
+            "alt": "spring-summer-2027 / Look 043 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-044",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 044",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-044/original.jpg",
+            "alt": "spring-summer-2027 / Look 044 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-045",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 045",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-045/original.jpg",
+            "alt": "spring-summer-2027 / Look 045 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-046",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 046",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-046/original.jpg",
+            "alt": "spring-summer-2027 / Look 046 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-047",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 047",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-047/original.jpg",
+            "alt": "spring-summer-2027 / Look 047 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-048",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 048",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-048/original.jpg",
+            "alt": "spring-summer-2027 / Look 048 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-049",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 049",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-049/original.jpg",
+            "alt": "spring-summer-2027 / Look 049 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-050",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 050",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-050/original.jpg",
+            "alt": "spring-summer-2027 / Look 050 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-051",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 051",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-051/original.jpg",
+            "alt": "spring-summer-2027 / Look 051 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-052",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 052",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-052/original.jpg",
+            "alt": "spring-summer-2027 / Look 052 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-053",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 053",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-053/original.jpg",
+            "alt": "spring-summer-2027 / Look 053 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-054",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 054",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-054/original.jpg",
+            "alt": "spring-summer-2027 / Look 054 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-055",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 055",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-055/original.jpg",
+            "alt": "spring-summer-2027 / Look 055 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-056",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 056",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-056/original.jpg",
+            "alt": "spring-summer-2027 / Look 056 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-057",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 057",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-057/original.jpg",
+            "alt": "spring-summer-2027 / Look 057 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-058",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 058",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-058/original.jpg",
+            "alt": "spring-summer-2027 / Look 058 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-059",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 059",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-059/original.jpg",
+            "alt": "spring-summer-2027 / Look 059 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-060",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 060",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-060/original.jpg",
+            "alt": "spring-summer-2027 / Look 060 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-061",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 061",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-061/original.jpg",
+            "alt": "spring-summer-2027 / Look 061 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-062",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 062",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-062/original.jpg",
+            "alt": "spring-summer-2027 / Look 062 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-063",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 063",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-063/original.jpg",
+            "alt": "spring-summer-2027 / Look 063 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-064",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 064",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-064/original.jpg",
+            "alt": "spring-summer-2027 / Look 064 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-065",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 065",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-065/original.jpg",
+            "alt": "spring-summer-2027 / Look 065 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-066",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 066",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-066/original.jpg",
+            "alt": "spring-summer-2027 / Look 066 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-067",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 067",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-067/original.jpg",
+            "alt": "spring-summer-2027 / Look 067 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-068",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 068",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-068/original.jpg",
+            "alt": "spring-summer-2027 / Look 068 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-069",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 069",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-069/original.jpg",
+            "alt": "spring-summer-2027 / Look 069 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-070",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 070",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-070/original.jpg",
+            "alt": "spring-summer-2027 / Look 070 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-071",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 071",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-071/original.jpg",
+            "alt": "spring-summer-2027 / Look 071 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-072",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 072",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-072/original.jpg",
+            "alt": "spring-summer-2027 / Look 072 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-073",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 073",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-073/original.jpg",
+            "alt": "spring-summer-2027 / Look 073 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-074",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 074",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-074/original.jpg",
+            "alt": "spring-summer-2027 / Look 074 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-075",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 075",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-075/original.jpg",
+            "alt": "spring-summer-2027 / Look 075 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-076",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 076",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-076/original.jpg",
+            "alt": "spring-summer-2027 / Look 076 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-077",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 077",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-077/original.jpg",
+            "alt": "spring-summer-2027 / Look 077 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-078",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 078",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-078/original.jpg",
+            "alt": "spring-summer-2027 / Look 078 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-079",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 079",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-079/original.jpg",
+            "alt": "spring-summer-2027 / Look 079 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-080",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 080",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-080/original.jpg",
+            "alt": "spring-summer-2027 / Look 080 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-081",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 081",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-081/original.jpg",
+            "alt": "spring-summer-2027 / Look 081 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-082",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 082",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-082/original.jpg",
+            "alt": "spring-summer-2027 / Look 082 原始圖片"
+          },
+          "linearts": []
+        },
+        {
+          "id": "spring-summer-2027-look-083",
+          "season": "spring-summer-2027",
+          "name": "spring-summer-2027 / Look 083",
+          "original": {
+            "src": "../output/image/chanel/spring-summer-2027/look-083/original.jpg",
+            "alt": "spring-summer-2027 / Look 083 原始圖片"
+          },
+          "linearts": []
+        }
+      ]
+    }
+  ]
+}
