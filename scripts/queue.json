@@ -84,6 +84,256 @@
         }
       ],
       "started_at": "2026-10-31T23:07:10.823741+08:00"
+    },
+    {
+      "brand": "chanel",
+      "season": "spring-summer-2026",
+      "look": 40,
+      "type": "runway",
+      "image_path": "output/image/chanel/spring-summer-2026/look-040/original.jpg",
+      "status": "queued",
+      "published_at": null,
+      "generations": [
+        {
+          "provider": "openai",
+          "model": "gpt-image-2.5-sunburst",
+          "version": "v001",
+          "output_path": "output/image/chanel/spring-summer-2026/look-040/linearts/gpt-image-2.5-sunburst/v001.png",
+          "status": "queued"
+        },
+        {
+          "provider": "gemini",
+          "model": "gemini-3.1-flash-image",
+          "version": "v001",
+          "output_path": "output/image/chanel/spring-summer-2026/look-040/linearts/gemini-3.1-flash-image/v001.png",
+          "status": "queued"
+        }
+      ]
+    },
+    {
+      "brand": "balenciaga",
+      "season": "couture-55",
+      "look": 21,
+      "type": "runway",
+      "image_path": "output/image/balenciaga/couture-55/look-021/original.jpg",
+      "status": "queued",
+      "published_at": null,
+      "generations": [
+        {
+          "provider": "openai",
+          "model": "gpt-image-2.5-sunburst",
+          "version": "v001",
+          "output_path": "output/image/balenciaga/couture-55/look-021/linearts/gpt-image-2.5-sunburst/v001.png",
+          "status": "queued"
+        },
+        {
+          "provider": "gemini",
+          "model": "gemini-3.1-flash-image",
+          "version": "v001",
+          "output_path": "output/image/balenciaga/couture-55/look-021/linearts/gemini-3.1-flash-image/v001.png",
+          "status": "queued"
+        }
+      ]
+    },
+    {
+      "brand": "balenciaga",
+      "season": "couture-55",
+      "look": 27,
+      "type": "runway",
+      "image_path": "output/image/balenciaga/couture-55/look-027/original.jpg",
+      "status": "queued",
+      "published_at": null,
+      "generations": [
+        {
+          "provider": "openai",
+          "model": "gpt-image-2.5-sunburst",
+          "version": "v001",
+          "output_path": "output/image/balenciaga/couture-55/look-027/linearts/gpt-image-2.5-sunburst/v001.png",
+          "status": "queued"
+        },
+        {
+          "provider": "gemini",
+          "model": "gemini-3.1-flash-image",
+          "version": "v001",
+          "output_path": "output/image/balenciaga/couture-55/look-027/linearts/gemini-3.1-flash-image/v001.png",
+          "status": "queued"
+        }
+      ]
+    },
+    {
+      "brand": "chanel",
+      "season": "metiers-art-2026",
+      "look": 20,
+      "type": "runway",
+      "image_path": "output/image/chanel/metiers-art-2026/look-020/original.jpg",
+      "status": "queued",
+      "published_at": null,
+      "generations": [
+        {
+          "provider": "openai",
+          "model": "gpt-image-2.5-sunburst",
+          "version": "v001",
+          "output_path": "output/image/chanel/metiers-art-2026/look-020/linearts/gpt-image-2.5-sunburst/v001.png",
+          "status": "queued"
+        },
+        {
+          "provider": "gemini",
+          "model": "gemini-3.1-flash-image",
+          "version": "v001",
+          "output_path": "output/image/chanel/metiers-art-2026/look-020/linearts/gemini-3.1-flash-image/v001.png",
+          "status": "queued"
+        }
+      ]
+    },
+    {
+      "brand": "chanel",
+      "season": "spring-summer-2027",
+      "look": 56,
+      "type": "runway",
+      "image_path": "output/image/chanel/spring-summer-2027/look-056/original.jpg",
+      "status": "queued",
+      "published_at": null,
+      "generations": [
+        {
+          "provider": "openai",
+          "model": "gpt-image-2.5-sunburst",
+          "version": "v001",
+          "output_path": "output/image/chanel/spring-summer-2027/look-056/linearts/gpt-image-2.5-sunburst/v001.png",
+          "status": "queued"
+        },
+        {
+          "provider": "gemini",
+          "model": "gemini-3.1-flash-image",
+          "version": "v001",
+          "output_path": "output/image/chanel/spring-summer-2027/look-056/linearts/gemini-3.1-flash-image/v001.png",
+          "status": "queued"
+        }
+      ]
+    },
+    {
+      "brand": "chanel",
+      "season": "spring-summer-2027",
+      "look": 69,
+      "type": "runway",
+      "image_path": "output/image/chanel/spring-summer-2027/look-069/original.jpg",
+      "status": "queued",
+      "published_at": null,
+      "generations": [
+        {
+          "provider": "openai",
+          "model": "gpt-image-2.5-sunburst",
+          "version": "v001",
+          "output_path": "output/image/chanel/spring-summer-2027/look-069/linearts/gpt-image-2.5-sunburst/v001.png",
+          "status": "queued"
+        },
+        {
+          "provider": "gemini",
+          "model": "gemini-3.1-flash-image",
+          "version": "v001",
+          "output_path": "output/image/chanel/spring-summer-2027/look-069/linearts/gemini-3.1-flash-image/v001.png",
+          "status": "queued"
+        }
+      ]
+    },
+    {
+      "brand": "chanel",
+      "season": "metiers-art-2026",
+      "look": 61,
+      "type": "runway",
+      "image_path": "output/image/chanel/metiers-art-2026/look-061/original.jpg",
+      "status": "queued",
+      "published_at": null,
+      "generations": [
+        {
+          "provider": "openai",
+          "model": "gpt-image-2.5-sunburst",
+          "version": "v001",
+          "output_path": "output/image/chanel/metiers-art-2026/look-061/linearts/gpt-image-2.5-sunburst/v001.png",
+          "status": "queued"
+        },
+        {
+          "provider": "gemini",
+          "model": "gemini-3.1-flash-image",
+          "version": "v001",
+          "output_path": "output/image/chanel/metiers-art-2026/look-061/linearts/gemini-3.1-flash-image/v001.png",
+          "status": "queued"
+        }
+      ]
+    },
+    {
+      "brand": "chanel",
+      "season": "spring-summer-2026",
+      "look": 31,
+      "type": "runway",
+      "image_path": "output/image/chanel/spring-summer-2026/look-031/original.jpg",
+      "status": "queued",
+      "published_at": null,
+      "generations": [
+        {
+          "provider": "openai",
+          "model": "gpt-image-2.5-sunburst",
+          "version": "v001",
+          "output_path": "output/image/chanel/spring-summer-2026/look-031/linearts/gpt-image-2.5-sunburst/v001.png",
+          "status": "queued"
+        },
+        {
+          "provider": "gemini",
+          "model": "gemini-3.1-flash-image",
+          "version": "v001",
+          "output_path": "output/image/chanel/spring-summer-2026/look-031/linearts/gemini-3.1-flash-image/v001.png",
+          "status": "queued"
+        }
+      ]
+    },
+    {
+      "brand": "chanel",
+      "season": "cruise-2026-27",
+      "look": 71,
+      "type": "runway",
+      "image_path": "output/image/chanel/cruise-2026-27/look-071/original.jpg",
+      "status": "queued",
+      "published_at": null,
+      "generations": [
+        {
+          "provider": "openai",
+          "model": "gpt-image-2.5-sunburst",
+          "version": "v001",
+          "output_path": "output/image/chanel/cruise-2026-27/look-071/linearts/gpt-image-2.5-sunburst/v001.png",
+          "status": "queued"
+        },
+        {
+          "provider": "gemini",
+          "model": "gemini-3.1-flash-image",
+          "version": "v001",
+          "output_path": "output/image/chanel/cruise-2026-27/look-071/linearts/gemini-3.1-flash-image/v001.png",
+          "status": "queued"
+        }
+      ]
+    },
+    {
+      "brand": "chanel",
+      "season": "spring-summer-2027",
+      "look": 36,
+      "type": "runway",
+      "image_path": "output/image/chanel/spring-summer-2027/look-036/original.jpg",
+      "status": "queued",
+      "published_at": null,
+      "generations": [
+        {
+          "provider": "openai",
+          "model": "gpt-image-2.5-sunburst",
+          "version": "v001",
+          "output_path": "output/image/chanel/spring-summer-2027/look-036/linearts/gpt-image-2.5-sunburst/v001.png",
+          "status": "queued"
+        },
+        {
+          "provider": "gemini",
+          "model": "gemini-3.1-flash-image",
+          "version": "v001",
+          "output_path": "output/image/chanel/spring-summer-2027/look-036/linearts/gemini-3.1-flash-image/v001.png",
+          "status": "queued"
+        }
+      ]
     }
   ]
 }
