@@ -2,6 +2,8 @@
 
 下載時裝 Look、透過 OpenAI 與 Gemini 生成線稿，並以靜態網站比較原圖及各模型版本。
 
+<img width="1910" height="967" alt="image" src="https://github.com/user-attachments/assets/d7f0cb5a-63bf-4538-8c27-f378b75900cc" />
+
 ## 安裝
 
 使用 Python 3.12+ 與 uv，在專案根目錄執行：
@@ -10,7 +12,7 @@
 uv sync --locked
 ```
 
-本機金鑰設定在環境變數或已忽略的 `.env`：`OPENAI_API_KEY`、`GEMINI_API_KEY`。只需設定實際執行供應商的金鑰，不要提交 .env。
+需自備 `OPENAI_API_KEY`、`GEMINI_API_KEY`。
 
 ## 常用操作
 
@@ -43,7 +45,7 @@ uv run python -m http.server 8000
 
 ## GitHub Actions
 
-`generate-lineart.yml` 每天台北時間 08:00 或手動觸發一張照片的 queued 模型任務。需將原圖與已完成線稿納入 repository，設定 Actions Secrets，並允許回存 commit。詳見佇列文件。
+`generate-lineart.yml` 每天台北時間 08:00 或手動觸發一張照片的 queued 模型任務。需將原圖與已完成線稿納入 repository，設定 Actions Secrets，並允許回存 commit。
 
 `checks.yml` 在 push、pull request 或手動觸發時執行測試、JSON/路徑驗證與 JavaScript 語法檢查，不使用金鑰或生成圖片。
 
