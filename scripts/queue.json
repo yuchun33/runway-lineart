@@ -76,7 +76,7 @@
       "type": "runway",
       "image_path": "output/image/balenciaga/couture-55/look-001/original.jpg",
       "status": "partial",
-      "published_at": null,
+      "published_at": "2026-11-01T23:32:27.650368+08:00",
       "generations": [
         {
           "model": "gpt-image-2.5-sunburst",
@@ -99,8 +99,10 @@
         }
       ],
       "started_at": "2026-10-31T23:07:10.823741+08:00",
-      "publish_status": "publishing",
-      "publish_started_at": "2026-11-01T23:32:11.454574+08:00"
+      "publish_status": "published",
+      "publish_started_at": "2026-11-01T23:32:11.454574+08:00",
+      "instagram_media_id": "4020887332734793388",
+      "instagram_url": "https://www.instagram.com/p/DfND7m9hnas/"
     },
     {
       "brand": "chanel",
