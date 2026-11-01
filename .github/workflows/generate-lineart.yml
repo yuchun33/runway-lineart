@@ -2,7 +2,7 @@ name: Generate queued lineart
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 08:00 Asia/Taipei
+    - cron: '0 3 * * *' # 08:00 Asia/Taipei
   workflow_dispatch:
 
 permissions:
