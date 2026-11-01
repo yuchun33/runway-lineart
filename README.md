@@ -1,10 +1,9 @@
 # Runway lineart
 
 下載時裝 Look、透過 OpenAI 與 Gemini 生成線稿，並以靜態網站比較原圖及各模型版本。
-(需自備 `OPENAI_API_KEY`、`GEMINI_API_KEY`)
-且支援將原圖、線稿與 Look 資訊合成發佈圖，並透過佇列發佈至 Instagram。
-
 <img width="1910" height="967" alt="image" src="https://github.com/user-attachments/assets/d7f0cb5a-63bf-4538-8c27-f378b75900cc" />
+
+支援使用 [instagrapi](https://github.com/subzeroid/instagrapi) 將原圖、線稿與 Look 資訊合成發佈圖，並透過佇列發佈至 Instagram。
 
 ## 安裝
 
