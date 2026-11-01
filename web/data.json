@@ -2666,7 +2666,15 @@
             "src": "../output/image/chanel/spring-summer-2026/look-040/original.jpg",
             "alt": "spring-summer-2026 / Look 040 原始圖片"
           },
-          "linearts": []
+          "linearts": [
+            {
+              "src": "../output/image/chanel/spring-summer-2026/look-040/linearts/gpt-image-2.5-sunburst/v001.png",
+              "alt": "spring-summer-2026 / Look 040 / gpt-image-2.5-sunburst / v001",
+              "name": "gpt-image-2.5-sunburst / v001",
+              "model": "gpt-image-2.5-sunburst",
+              "version": "v001"
+            }
+          ]
         },
         {
           "id": "spring-summer-2026-look-041",
