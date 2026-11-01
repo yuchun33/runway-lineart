@@ -62,15 +62,15 @@ uv run python -m http.server 8000
 
 ## 目錄與文件
 
-- `scripts/`：下載、生成、佇列與索引工具
-- `scripts/queue.json`：工作順序、明確輸入輸出與各模型狀態
-- `output/image/品牌/季度/Look/`：original、source.json 與 linearts/模型/版本。
+- `scripts/`：下載、生成、合成、發佈、佇列與索引工具
+- `scripts/queue.json`：使用此檔案控制任務順序、輸入輸出路徑、生成與發佈狀態
+- `output/image/品牌/季度/Look/`：original、source.json 與 linearts/模型/版本、發佈版本。
 - `web/`：靜態展示與 data.json
 - `local/`：本機筆記、設計資料與 snapshots/ 頁面快照，不提交 Git。
 - `output/logs/`：執行日誌，不提交 Git。
 
 ## GitHub Actions
 
-`generate-lineart.yml` 每天排程或手動觸發一張照片的 queued 模型任務。需將原圖與已完成線稿納入 repository，設定 Actions Secrets，並允許回存 commit。
+`generate-lineart.yml` 每天排程或手動觸發一張照片的 queued 模型任務並觸發發佈到 IG。需將原圖與已完成線稿納入 repository，設定 Actions Secrets，並允許回存 commit。
 
 `checks.yml` 在 push、pull request 或手動觸發時執行測試、JSON/路徑驗證與 JavaScript 語法檢查，不使用金鑰或生成圖片。
