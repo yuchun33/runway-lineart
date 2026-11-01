@@ -47,6 +47,13 @@ uv run scripts/run_queue.py --provider gemini --dry-run
 # 將已存在的素材更新至網站索引
 uv run scripts/update_web_data.py
 
+# 補製所有未發佈項目的已完成線稿，不呼叫生成 API 或 IG
+uv run python -m scripts.publish.compose_post
+
+# 從 queue 自動發佈 post
+uv run scripts/publish_queue.py --dry-run
+uv run scripts/publish_queue.py
+
 # 以專案根目錄提供網站，瀏覽 http://localhost:8000/web/
 uv run python -m http.server 8000
 ```
