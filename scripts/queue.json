@@ -7,7 +7,7 @@
       "type": "runway",
       "image_path": "output/image/chanel/cruise-2026-27/look-001/original.jpg",
       "status": "partial",
-      "published_at": null,
+      "published_at": "2026-11-01T23:01:01.815208+08:00",
       "generations": [
         {
           "model": "gpt-image-2.5-sunburst",
@@ -27,7 +27,11 @@
           "started_at": "2026-10-31T23:05:43.264101+08:00"
         }
       ],
-      "started_at": "2026-10-31T23:05:43.264101+08:00"
+      "started_at": "2026-10-31T23:05:43.264101+08:00",
+      "publish_status": "published",
+      "publish_started_at": "2026-11-01T23:00:39.292225+08:00",
+      "instagram_media_id": "4020871478425895605",
+      "instagram_url": "https://www.instagram.com/p/DfNAU5fE0K1/"
     },
     {
       "brand": "chanel",
@@ -36,7 +40,7 @@
       "type": "queued",
       "image_path": "output/image/chanel/metiers-art-2026/look-022/original.jpg",
       "status": "partial",
-      "published_at": null,
+      "published_at": "2026-11-01T23:15:03.681568+08:00",
       "generations": [
         {
           "model": "gpt-image-2.5-sunburst",
@@ -45,7 +49,10 @@
           "provider": "openai",
           "status": "completed",
           "started_at": "2026-11-01T00:14:27.640996+08:00",
-          "completed_at": "2026-11-01T00:14:47.585889+08:00"
+          "completed_at": "2026-11-01T00:14:47.585889+08:00",
+          "post_status": "completed",
+          "post_path": "output/image/chanel/metiers-art-2026/look-022/posts/gpt-image-2.5-sunburst/v001.jpg",
+          "post_completed_at": "2026-11-01T15:08:00.448000+00:00"
         },
         {
           "provider": "gemini",
@@ -56,7 +63,11 @@
           "started_at": "2026-10-31T23:06:27.233778+08:00"
         }
       ],
-      "started_at": "2026-10-31T23:06:27.233778+08:00"
+      "started_at": "2026-10-31T23:06:27.233778+08:00",
+      "publish_status": "published",
+      "publish_started_at": "2026-11-01T23:14:50.415682+08:00",
+      "instagram_media_id": "4020878563921564574",
+      "instagram_url": "https://www.instagram.com/p/DfNB8AXhxOe/"
     },
     {
       "brand": "balenciaga",
@@ -74,7 +85,10 @@
           "provider": "openai",
           "status": "completed",
           "started_at": "2026-11-01T00:21:17.220913+08:00",
-          "completed_at": "2026-11-01T00:21:47.296828+08:00"
+          "completed_at": "2026-11-01T00:21:47.296828+08:00",
+          "post_status": "completed",
+          "post_path": "output/image/balenciaga/couture-55/look-001/posts/gpt-image-2.5-sunburst/v001.jpg",
+          "post_completed_at": "2026-11-01T15:18:04.056237+00:00"
         },
         {
           "provider": "gemini",
@@ -102,7 +116,10 @@
           "output_path": "output/image/chanel/spring-summer-2026/look-040/linearts/gpt-image-2.5-sunburst/v001.png",
           "status": "completed",
           "started_at": "2026-11-01T18:12:08.578221+08:00",
-          "completed_at": "2026-11-01T18:12:36.721196+08:00"
+          "completed_at": "2026-11-01T18:12:36.721196+08:00",
+          "post_status": "completed",
+          "post_path": "output/image/chanel/spring-summer-2026/look-040/posts/gpt-image-2.5-sunburst/v001.jpg",
+          "post_completed_at": "2026-11-01T15:18:04.167228+00:00"
         },
         {
           "provider": "gemini",

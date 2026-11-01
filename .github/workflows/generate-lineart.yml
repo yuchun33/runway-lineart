@@ -2,7 +2,7 @@ name: Generate queued lineart
 
 on:
   schedule:
-    - cron: '0 3 * * *' # 08:00 Asia/Taipei
+    - cron: '0 3 * * *' # 11:00 Asia/Taipei
   workflow_dispatch:
 
 permissions:
@@ -36,9 +36,56 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: uv run --locked python -u -B scripts/run_queue.py --provider openai
+      - name: Compose completed linearts for publishing
+        id: composer
+        if: ${{ !cancelled() && (steps.worker.outcome == 'success' || steps.worker.outcome == 'failure') }}
+        continue-on-error: true
+        run: uv run --locked python -u -B -m scripts.publish.compose_post
       - name: Update website image index
         if: ${{ always() && (steps.worker.outcome == 'success' || steps.worker.outcome == 'failure') }}
         run: uv run --locked python -B scripts/update_web_data.py
+      - name: Restore Instagram session
+        id: session
+        if: ${{ !cancelled() && (steps.worker.outcome == 'success' || steps.worker.outcome == 'failure') }}
+        env:
+          INSTAGRAM_SESSION_JSON: ${{ secrets.INSTAGRAM_SESSION_JSON }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+          value = os.environ.get('INSTAGRAM_SESSION_JSON', '')
+          if not value:
+              raise SystemExit('Set the INSTAGRAM_SESSION_JSON repository secret before publishing.')
+          json.loads(value)
+          path = Path('local/session.json')
+          path.parent.mkdir(parents=True, exist_ok=True)
+          path.write_text(value, encoding='utf-8')
+          path.chmod(0o600)
+          PY
+      - name: Prepare one post and persist checkpoint
+        id: publish_checkpoint
+        if: ${{ !cancelled() && steps.session.outcome == 'success' }}
+        run: |
+          uv run --locked python -u -B scripts/publish_queue.py --prepare
+          git add -- scripts/queue.json output/image
+          if ! git diff --cached --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m 'Checkpoint lineart queue before Instagram publishing'
+            git push origin "HEAD:$DEFAULT_BRANCH"
+          fi
+      - name: Publish one prepared Instagram post
+        id: publisher
+        if: ${{ !cancelled() && steps.publish_checkpoint.outcome == 'success' }}
+        run: uv run --locked python -u -B scripts/publish_queue.py --send-prepared
+      - name: Remove Instagram session
+        if: ${{ always() }}
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          Path('local/session.json').unlink(missing_ok=True)
+          PY
       - name: Preserve results for recovery
         if: ${{ always() && steps.worker.outcome != 'skipped' }}
         uses: actions/upload-artifact@v4
@@ -48,6 +95,7 @@ jobs:
             scripts/queue.json
             web/data.json
             output/image/**/linearts/**/*.png
+            output/image/**/posts/**/*.jpg
             output/logs/queue.log
           retention-days: 30
       - name: Commit queue status, output images and website index
@@ -71,6 +119,11 @@ jobs:
                   if not output.is_file():
                       raise FileNotFoundError(f'Completed generation output is missing: {output}')
                   subprocess.run(['git', 'add', '--', str(output.relative_to(root))], check=True)
+                  if generation.get('post_status') == 'completed':
+                      post = (root / generation['post_path']).resolve()
+                      if not post.is_relative_to(root) or post.suffix != '.jpg' or not post.is_file():
+                          raise ValueError('Invalid composed post path')
+                      subprocess.run(['git', 'add', '--', str(post.relative_to(root))], check=True)
           PY
           if git diff --cached --quiet; then
             echo 'No queue changes to save.'
@@ -83,5 +136,5 @@ jobs:
           git rebase "origin/$DEFAULT_BRANCH"
           git push origin "HEAD:$DEFAULT_BRANCH"
       - name: Report worker failure
-        if: ${{ always() && steps.worker.outcome == 'failure' }}
+        if: ${{ always() && (steps.worker.outcome == 'failure' || steps.composer.outcome == 'failure') }}
         run: exit 1

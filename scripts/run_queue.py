@@ -13,6 +13,7 @@ if __package__ in {None, ''}:
 
 from scripts.lineart import openai_lineart, gemini_lineart
 from scripts.lineart.common import ROOT
+from scripts.publish.compose_post import compose_generation
 
 PROVIDERS = {'openai': openai_lineart, 'gemini': gemini_lineart}
 QUEUE = Path(__file__).with_name('queue.json')
@@ -105,6 +106,9 @@ def process(dry_run=False, provider=None, model=None):
             failures += 1
             item.update(status='failed', failed_at=now(), error=str(exc))
             logging.error('%s: %s', item['provider'], exc)
+        if item.get('status') == 'completed':
+            if not compose_generation(job, item, ROOT):
+                failures += 1
         job['status'] = status_of(generations)
         if job['status'] == 'completed':
             job['completed_at'] = now()

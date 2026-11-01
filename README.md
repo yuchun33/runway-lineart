@@ -2,6 +2,7 @@
 
 下載時裝 Look、透過 OpenAI 與 Gemini 生成線稿，並以靜態網站比較原圖及各模型版本。
 (需自備 `OPENAI_API_KEY`、`GEMINI_API_KEY`)
+且支援將原圖、線稿與 Look 資訊合成發佈圖，並透過佇列發佈至 Instagram。
 
 <img width="1910" height="967" alt="image" src="https://github.com/user-attachments/assets/d7f0cb5a-63bf-4538-8c27-f378b75900cc" />
 
@@ -12,6 +13,28 @@
 ```powershell
 uv sync --locked
 ```
+
+## KEY 與設定位置
+
+本機 API KEY 放在專案根目錄的 `.env`，也可以透過環境變數設定；產圖程式另外支援 `scripts/.env`。
+GitHub Actions 使用 repository 的 **Settings → Secrets and variables → Actions → Repository secrets**，名稱與下表完全一致。
+
+| 設定名稱 | 用途 | 本機位置 | GitHub Actions 位置 |
+| --- | --- | --- | --- |
+| `OPENAI_API_KEY` | 使用 OpenAI 生成線稿時需要 | `.env` | 同名 Repository secret；目前排程使用 OpenAI |
+| `GEMINI_API_KEY` | 使用 Gemini 生成線稿時需要 | `.env` | 同名 Repository secret；目前排程未執行 Gemini |
+| `INSTAGRAM_SESSION_JSON` | Instagram 已登入的 session | 使用 `local/session.json` 檔案，不需設定此環境變數 | 同名 Repository secret，值為 `local/session.json` 的完整 JSON |
+
+本機 `.env` 範例（只需設定要使用的產圖服務）：
+
+```dotenv
+OPENAI_API_KEY=your_openai_api_key
+GEMINI_API_KEY=your_gemini_api_key
+```
+
+Instagram 預設使用 `local/session.json`，已有有效 session 時不需帳密。若要在本機建立 session，可在根目錄 `.env` 設定 `INSTAGRAM_USERNAME`、`INSTAGRAM_PASSWORD`；需要兩步驟驗證時再提供 `INSTAGRAM_VERIFICATION_CODE`。目前 Actions 只使用 session，不使用帳密登入。
+
+下載原圖、合成圖片及瀏覽網站不需要 API KEY。`.env` 與 `local/` 已被 Git 忽略，請勿提交金鑰或 session。Actions workflow 已宣告 `contents: write`，repository 也需允許 workflow 推送 commit。
 
 ## 常用操作
 

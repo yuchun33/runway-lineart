@@ -9,6 +9,9 @@ from scripts import run_queue as worker
 
 class QueueTests(unittest.TestCase):
     def setUp(self):
+        composer = patch.object(worker, 'compose_generation', return_value=True)
+        composer.start()
+        self.addCleanup(composer.stop)
         folder = tempfile.TemporaryDirectory()
         self.addCleanup(folder.cleanup)
         self.root = Path(folder.name)
