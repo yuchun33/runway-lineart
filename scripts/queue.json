@@ -111,7 +111,7 @@
       "type": "runway",
       "image_path": "output/image/chanel/spring-summer-2026/look-040/original.jpg",
       "status": "partial",
-      "published_at": null,
+      "published_at": "2026-11-02T18:40:47.157466+08:00",
       "generations": [
         {
           "provider": "openai",
@@ -134,8 +134,10 @@
         }
       ],
       "started_at": "2026-11-01T18:12:08.578235+08:00",
-      "publish_status": "publishing",
-      "publish_started_at": "2026-11-02T18:40:31.177909+08:00"
+      "publish_status": "published",
+      "publish_started_at": "2026-11-02T18:40:31.177909+08:00",
+      "instagram_media_id": "4021465313848922393",
+      "instagram_url": "https://www.instagram.com/p/DfPHWV0hREZ/"
     },
     {
       "brand": "balenciaga",
