@@ -133,7 +133,9 @@
           "status": "queued"
         }
       ],
-      "started_at": "2026-11-01T18:12:08.578235+08:00"
+      "started_at": "2026-11-01T18:12:08.578235+08:00",
+      "publish_status": "publishing",
+      "publish_started_at": "2026-11-02T18:40:31.177909+08:00"
     },
     {
       "brand": "balenciaga",
@@ -172,7 +174,7 @@
       "look": 27,
       "type": "runway",
       "image_path": "output/image/balenciaga/couture-55/look-027/original.jpg",
-      "status": "queued",
+      "status": "partial",
       "published_at": null,
       "generations": [
         {
@@ -180,7 +182,12 @@
           "model": "gpt-image-2.5-sunburst",
           "version": "v001",
           "output_path": "output/image/balenciaga/couture-55/look-027/linearts/gpt-image-2.5-sunburst/v001.png",
-          "status": "queued"
+          "status": "completed",
+          "started_at": "2026-11-02T18:40:10.069677+08:00",
+          "completed_at": "2026-11-02T18:40:29.688517+08:00",
+          "post_status": "completed",
+          "post_path": "output/image/balenciaga/couture-55/look-027/posts/gpt-image-2.5-sunburst/v001.jpg",
+          "post_completed_at": "2026-11-02T10:40:29.912311+00:00"
         },
         {
           "provider": "gemini",
@@ -189,7 +196,8 @@
           "output_path": "output/image/balenciaga/couture-55/look-027/linearts/gemini-3.1-flash-image/v001.png",
           "status": "queued"
         }
-      ]
+      ],
+      "started_at": "2026-11-02T18:40:10.069693+08:00"
     },
     {
       "brand": "chanel",
