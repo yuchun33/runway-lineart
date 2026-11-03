@@ -1664,7 +1664,15 @@
             "src": "../output/image/chanel/metiers-art-2026/look-020/original.jpg",
             "alt": "metiers-art-2026 / Look 020 原始圖片"
           },
-          "linearts": []
+          "linearts": [
+            {
+              "src": "../output/image/chanel/metiers-art-2026/look-020/linearts/gpt-image-2.5-sunburst/v001.png",
+              "alt": "metiers-art-2026 / Look 020 / gpt-image-2.5-sunburst / v001",
+              "name": "gpt-image-2.5-sunburst / v001",
+              "model": "gpt-image-2.5-sunburst",
+              "version": "v001"
+            }
+          ]
         },
         {
           "id": "metiers-art-2026-look-021",

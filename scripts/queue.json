@@ -146,7 +146,7 @@
       "type": "runway",
       "image_path": "output/image/balenciaga/couture-55/look-021/original.jpg",
       "status": "partial",
-      "published_at": null,
+      "published_at": "2026-11-03T18:33:11.952816+08:00",
       "generations": [
         {
           "provider": "openai",
@@ -169,8 +169,10 @@
         }
       ],
       "started_at": "2026-11-01T23:31:40.250851+08:00",
-      "publish_status": "publishing",
-      "publish_started_at": "2026-11-03T18:32:54.506772+08:00"
+      "publish_status": "published",
+      "publish_started_at": "2026-11-03T18:32:54.506772+08:00",
+      "instagram_media_id": "4022186269500369111",
+      "instagram_url": "https://www.instagram.com/p/DfRrRoGBejX/"
     },
     {
       "brand": "balenciaga",
