@@ -3628,7 +3628,15 @@
             "src": "../output/image/chanel/spring-summer-2027/look-056/original.jpg",
             "alt": "spring-summer-2027 / Look 056 原始圖片"
           },
-          "linearts": []
+          "linearts": [
+            {
+              "src": "../output/image/chanel/spring-summer-2027/look-056/linearts/gpt-image-2.5-sunburst/v001.png",
+              "alt": "spring-summer-2027 / Look 056 / gpt-image-2.5-sunburst / v001",
+              "name": "gpt-image-2.5-sunburst / v001",
+              "model": "gpt-image-2.5-sunburst",
+              "version": "v001"
+            }
+          ]
         },
         {
           "id": "spring-summer-2027-look-057",
