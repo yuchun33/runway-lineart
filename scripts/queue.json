@@ -251,7 +251,7 @@
       "type": "runway",
       "image_path": "output/image/chanel/spring-summer-2027/look-056/original.jpg",
       "status": "partial",
-      "published_at": null,
+      "published_at": "2026-11-06T18:30:54.056842+08:00",
       "generations": [
         {
           "provider": "openai",
@@ -274,8 +274,10 @@
         }
       ],
       "started_at": "2026-11-04T21:46:25.553947+08:00",
-      "publish_status": "publishing",
-      "publish_started_at": "2026-11-06T18:30:35.502901+08:00"
+      "publish_status": "published",
+      "publish_started_at": "2026-11-06T18:30:35.502901+08:00",
+      "instagram_media_id": "4024359435685360302",
+      "instagram_url": "https://www.instagram.com/p/DfZZZW0hHKu/"
     },
     {
       "brand": "chanel",
