@@ -343,7 +343,9 @@
           "status": "queued"
         }
       ],
-      "started_at": "2026-11-06T18:29:57.216690+08:00"
+      "started_at": "2026-11-06T18:29:57.216690+08:00",
+      "publish_status": "publishing",
+      "publish_started_at": "2026-11-09T19:01:11.638812+08:00"
     },
     {
       "brand": "chanel",
@@ -382,7 +384,7 @@
       "look": 71,
       "type": "runway",
       "image_path": "output/image/chanel/cruise-2026-27/look-071/original.jpg",
-      "status": "queued",
+      "status": "partial",
       "published_at": null,
       "generations": [
         {
@@ -390,7 +392,12 @@
           "model": "gpt-image-2.5-sunburst",
           "version": "v001",
           "output_path": "output/image/chanel/cruise-2026-27/look-071/linearts/gpt-image-2.5-sunburst/v001.png",
-          "status": "queued"
+          "status": "completed",
+          "started_at": "2026-11-09T19:00:50.332224+08:00",
+          "completed_at": "2026-11-09T19:01:10.327388+08:00",
+          "post_status": "completed",
+          "post_path": "output/image/chanel/cruise-2026-27/look-071/posts/gpt-image-2.5-sunburst/v001.jpg",
+          "post_completed_at": "2026-11-09T11:01:10.450838+00:00"
         },
         {
           "provider": "gemini",
@@ -399,7 +406,8 @@
           "output_path": "output/image/chanel/cruise-2026-27/look-071/linearts/gemini-3.1-flash-image/v001.png",
           "status": "queued"
         }
-      ]
+      ],
+      "started_at": "2026-11-09T19:00:50.332244+08:00"
     },
     {
       "brand": "chanel",
