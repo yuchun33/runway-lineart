@@ -1296,7 +1296,15 @@
             "src": "../output/image/chanel/cruise-2026-27/look-071/original.jpg",
             "alt": "cruise-2026-27 / Look 071 原始圖片"
           },
-          "linearts": []
+          "linearts": [
+            {
+              "src": "../output/image/chanel/cruise-2026-27/look-071/linearts/gpt-image-2.5-sunburst/v001.png",
+              "alt": "cruise-2026-27 / Look 071 / gpt-image-2.5-sunburst / v001",
+              "name": "gpt-image-2.5-sunburst / v001",
+              "model": "gpt-image-2.5-sunburst",
+              "version": "v001"
+            }
+          ]
         },
         {
           "id": "cruise-2026-27-look-072",
