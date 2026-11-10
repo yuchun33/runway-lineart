@@ -356,7 +356,7 @@
       "type": "runway",
       "image_path": "output/image/chanel/spring-summer-2026/look-031/original.jpg",
       "status": "partial",
-      "published_at": null,
+      "published_at": "2026-11-10T18:52:15.402017+08:00",
       "generations": [
         {
           "provider": "openai",
@@ -379,8 +379,10 @@
         }
       ],
       "started_at": "2026-11-07T17:42:43.228461+08:00",
-      "publish_status": "publishing",
-      "publish_started_at": "2026-11-10T18:51:57.458457+08:00"
+      "publish_status": "published",
+      "publish_started_at": "2026-11-10T18:51:57.458457+08:00",
+      "instagram_media_id": "4027269280793115379",
+      "instagram_url": "https://www.instagram.com/p/DfjvBLQhDrz/"
     },
     {
       "brand": "chanel",
