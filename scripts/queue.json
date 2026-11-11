@@ -391,7 +391,7 @@
       "type": "runway",
       "image_path": "output/image/chanel/cruise-2026-27/look-071/original.jpg",
       "status": "partial",
-      "published_at": null,
+      "published_at": "2026-11-11T18:28:26.087689+08:00",
       "generations": [
         {
           "provider": "openai",
@@ -414,8 +414,10 @@
         }
       ],
       "started_at": "2026-11-09T19:00:50.332244+08:00",
-      "publish_status": "publishing",
-      "publish_started_at": "2026-11-11T18:28:08.764424+08:00"
+      "publish_status": "published",
+      "publish_started_at": "2026-11-11T18:28:08.764424+08:00",
+      "instagram_media_id": "4027982076140895500",
+      "instagram_url": "https://www.instagram.com/p/DfmRFtqBL0M/"
     },
     {
       "brand": "chanel",
