@@ -413,7 +413,9 @@
           "status": "queued"
         }
       ],
-      "started_at": "2026-11-09T19:00:50.332244+08:00"
+      "started_at": "2026-11-09T19:00:50.332244+08:00",
+      "publish_status": "publishing",
+      "publish_started_at": "2026-11-11T18:28:08.764424+08:00"
     },
     {
       "brand": "chanel",
