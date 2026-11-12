@@ -448,7 +448,9 @@
           "status": "queued"
         }
       ],
-      "started_at": "2026-11-10T18:51:20.152706+08:00"
+      "started_at": "2026-11-10T18:51:20.152706+08:00",
+      "publish_status": "publishing",
+      "publish_started_at": "2026-11-12T18:44:23.264820+08:00"
     }
   ]
 }
